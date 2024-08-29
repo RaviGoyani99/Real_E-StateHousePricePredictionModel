@@ -7,10 +7,11 @@
 2. Numpy and Pandas: Used for data cleaning, manipulation, and analysis.
 3. Matplotlib: A library for data visualization, used to create plots and graphs that aid in understanding data distributions and model performance.
 4. Scikit-Learn: The primary machine learning library used for model building, including linear regression and evaluation techniques.
-5. Jupyter Notebook: An interactive computing environment that allows for rapid experimentation and visualization during the data science process.
-6. Visual Studio Code and PyCharm: IDEs used for development and debugging.
-7. Flask: A lightweight WSGI web application framework used to build the backend server.
-8. Deploy to cloud using aws Ec2 & NGINX web server
+5. OpenCV · Wavelet Transform : A technique used in image processing for multi-resolution analysis, allowing both time and frequency localization of image features.
+6. Jupyter Notebook: An interactive computing environment that allows for rapid experimentation and visualization during the data science process.
+7. Visual Studio Code and PyCharm: IDEs used for development and debugging.
+8. Flask: A lightweight WSGI web application framework used to build the backend server.
+9. Deploy to cloud using aws Ec2 & NGINX web server
 
 ## ML Model Deploy to production using aws Ec2 & NGINX Web server
 <img width="959" alt="Screenshot 2024-08-28 161520" src="https://github.com/user-attachments/assets/708dd003-15dd-48b1-8c6d-01e82cca53ad">
