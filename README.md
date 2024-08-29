@@ -12,6 +12,7 @@
 7. Flask: A lightweight WSGI web application framework used to build the backend server.
 8. Deploy to cloud using aws Ec2 & NGINX web server
 
+## ML Model Deploy to production using aws Ec2 & NGINX Web server
 <img width="959" alt="Screenshot 2024-08-28 161520" src="https://github.com/user-attachments/assets/708dd003-15dd-48b1-8c6d-01e82cca53ad">
 
 ### Objectives
