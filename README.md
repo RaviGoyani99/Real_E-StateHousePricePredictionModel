@@ -44,7 +44,7 @@ UI: Contains the code for the web-based user interface. Built with HTML, CSS, an
 
 ### Installation Guide
 
-1. Clone the Repository: git clone https://github.com/your-username/real-estate-price-prediction.git
+1. Clone the Repository: git clone https://github.com/RaviGoyani99/real-estate-price-prediction.git
    
 2. Install Dependencies: Navigate to the project directory and run pip install -r requirements.txt to install all necessary Python packages.
 
